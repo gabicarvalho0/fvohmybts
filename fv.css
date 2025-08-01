@@ -1,0 +1,83 @@
+/* -- fonte, links. -- */
+p, a, body, td, tr, div {
+	font-weight: normal;
+	font-style: normal;
+	font-size: 11px;
+	color: #b380aa;
+	cursor: crosshair;
+	font-family: Verdana;
+	line-height: 11px;}
+
+a, a:link {color: #d7c5d5; 
+           TEXT-DECORATION: none;}
+
+a:hover {color: #ceb9cc; 
+         TEXT-DECORATION: none; }
+
+::-moz-selection
+   {color: #b380aa;
+    background-color: #f1efef;}
+
+::selection
+   {color: #b380aa;
+    background-color: #f1efef;}
+ 
+b {cursor: none; color: #b380aa; TEXT-DECORATION: none; letter-spacing: -1px; TEXT-TRANSFORM: UPPERCASE; }
+d {cursor: none; color: #ceb9cc; TEXT-DECORATION: none; letter-spacing: -1px; TEXT-TRANSFORM: UPPERCASE; }
+f {cursor: none; color: #d7c5d5; TEXT-DECORATION: none;}
+strong {color: #d7c5d5; background: #f1efef; font-weight: normal; line-height: 14px; letter-spacing: 1px;}
+
+
+.titulo {letter-spacing: -2px; TEXT-TRANSFORM: UPPERCASE;}
+.titulo_post {letter-spacing: -2px; font-style: none; font-weight: bold; font-size: 17px; font-family: verdana;}
+
+.subtitulo {font-family: Verdana;
+font-size: 11px;
+color: #b380aa;
+font-weight: normal;
+font-style: normal;
+padding: 1px 1px 2px 1px;}
+
+a img {filter:alpha(opacity=100);
+-moz-opacity:0.90;
+opacity: 0.90;}
+
+a:hover img {filter:alpha(opacity=100);
+-moz-opacity:0.100;
+opacity: 0.100;}
+
+.principal {color: #b380aa;
+        background-color: #f1efef;
+	line-height: 11px;
+        padding: 10px;
+        -moz-border-radius: 0px;
+        line-height: 13px;
+        font-family: Verdana;
+        width: 500px;}
+
+.by {margin-right: 5px; 
+     padding:2px;
+     text-align: center;
+     font-family: verdana;
+     background-color: #;
+     float:left; 
+     width:18%;
+     color:none;}
+
+input, textarea, select {font-family: verdana;
+        text-align: justify; 
+	font-size: 11px; 
+        color: #b380aa;
+	border: 1px solid #e2dede;
+	-moz-border-radius: 0px 0px 0px 0px;
+        background-color: #eee7e7;}
+
+.comentarios {font-family: verdana;
+        text-align: justify; 
+	font-size: 11px; 
+        padding: 5px;
+        color: #d7c5d5;
+	border: 0px dashed #eeeeee;
+	-moz-border-radius: 0px 0px 0px 0px;
+        background-color: #f5f5f5;
+        width: 320px;}
