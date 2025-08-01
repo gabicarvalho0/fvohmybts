@@ -1,0 +1,273 @@
+/* --- fonte: gabi carvalho --- */
+p, a, body, td, tr, div {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: #86819A;
+	font-family: tahoma;
+	line-height: 11px;
+	cursor: crosshair; 
+        text-shadow: 1px 1px #F1EFF1;
+}
+
+body{
+	
+        background: #E8E6E8; }
+
+i{
+	color: #ffffff;
+}
+
+s{
+	color:#9B7CBA;
+}
+
+g{
+	color:#f2c3cc;
+}
+
+h{
+	color:#807b95;
+}
+
+
+/* --- seleção de texto  --- */
+	
+::-moz-selection{
+ 	color: #f2c3cc;
+	background: none;}
+
+::selection{
+	color: #f2c3cc;
+	background: none;}
+
+/* --- caixinhs  --- */
+
+textarea{
+	font-family: Tahoma; 
+	font-size: 11px;
+	color: #ffffff;
+	background: #D5CEDD;
+	border-top: 8px solid #B19AC9;
+        border-bottom: 8px solid #B19AC9;
+        border-left: 1px solid #B19AC9;
+        border-right: 1px solid #B19AC9;
+        -moz-border-radius: 0px;
+        width:320px;
+        margin-top:4px;
+        padding: 2px;
+        text-shadow: 1px 1px #908aa4;}
+
+select, input {
+        font-family: Tahoma; 
+	font-size: 11px;
+        font-weight: bold;
+	color: #f2c3cc;
+	background-color: transparent;
+        border: 0px;
+        -moz-border-radius: 0px;
+        text-shadow: 1px 1px #9b95ae;}
+
+.comentarios { 
+	color:#68647c; 
+	font-family: tahoma; 
+	font-size: 11px;
+        padding: 3px;
+	border: 1px solid #b0adbc;  
+	border-right: 10px solid #f2c3cc; 
+	background-color: #D5CEDD;
+	width: 380px;
+        text-align: left;
+	-moz-border-radius: 0px;
+        padding-top:8px;
+        padding-bottom:4px;
+}
+
+
+.cmttext {
+	text-align: left;
+        width: 350px;
+	color: #807b95;
+	font-family: tahoma;
+	font-size: 11px;
+        margin-bottom:10px;
+        margin-top:10px;
+}
+
+        
+
+/* --- subtitulos --- */
+
+.subtitulo {
+        font-family: tahoma;
+        font-size: 12px;
+	font-weight: bold;
+        color: #f2c3cc;
+        width: 115px;
+        letter-spacing:1px;
+	background: transparent;
+	border: 0px;
+        text-shadow: 1px 1px #9b95ae;
+        padding: 3px;}
+
+/* --- post  --- */
+
+.caixa1 {
+	width: 460px;
+        height: auto;
+        align:center;
+        border: 1px solid #b0adbc;  
+	border-right: 10px solid #f2c3cc; 
+	background-color: #D5CEDD;        
+        padding: 2px;
+	color: #807b95;
+	font-face: tahoma;
+        -moz-border-radius: 0px 0px 0px 0px;
+        margin-top: 5px;
+       
+}
+
+
+.caixa2{
+        width: 480px;
+        height: auto;
+        align:center;
+        background: #E8E6E8;
+	border-left: 0px;
+        padding: 2px;
+        -moz-border-radius: 0px 0px 0px 0px;
+	color: #e9e9f5;
+	font-face: tahoma;
+	font-size:11px;
+        text-shadow: 1px 1px #9b95ae;
+}
+
+
+/* --- links e opacidade das propagandas --- */
+
+a { 
+        color: #c6c6ca;
+	background-color: transparent;
+	TEXT-DECORATION: none;
+        text-shadow: 1px 1px #9b95ae;} 
+
+a, a:link {
+	color: #c6c6ca;
+	background-color: transparent;
+	TEXT-DECORATION: none; 
+        text-shadow: 1px 1px #9b95ae;}
+
+a, a:visited {
+        color: #c6c6ca;
+	background-color: transparent;
+        TEXT-DECORATION: none; 
+        text-shadow: 1px 1px #9b95ae;}
+
+a:hover {
+	color: #f2c3cc;
+	cursor: ne-resize ;
+	background-color: transparent;
+        TEXT-DECORATION: none;
+        text-shadow: 1px 1px #9b95ae; }
+
+a.menu:link, a.menu:visited{
+        -moz-border-radius: 3px;
+        background: #a29ead;
+        color: #f2c3cc;
+        padding: 3px 3px 3px 3px;
+        border-right: 3px solid #8c889e;
+        border-left: 3px solid #8c889e;
+        border-top: 1px solid #88839c; 
+        border-bottom: 1px solid #88839c; 
+        display: inline-block;
+}
+
+a.menu:hover{
+        -moz-border-radius: 3px;
+        background: #29ead;
+        color: #f2c3cc;
+        padding: 3px 7px 3px 7px;
+        border-right: 3px solid #8c889e;
+        border-left: 3px solid #8c889e;
+        border-top: 1px solid #88839c; 
+        border-bottom: 1px solid #88839c;
+}
+
+/*--- iframe {
+opacity:.45;
+-moz-opacity:.45;
+filter:  alpha(opacity=45);} --- */
+
+
+/* --- opacidade imagem-link! --- */
+
+a img {
+filter:alpha(opacity=45);
+-moz-opacity:0.75; opacity:0.75;
+border:0px;
+
+}
+a:hover img {
+filter:alpha(opacity=100);
+-moz-opacity:1.0; opacity:1.0;
+}
+
+
+/* --- barra --- */
+#barra {
+height: 30px;
+color: #ffffff;
+background: #B19AC9;
+margin-bottom: 30px;
+border-top: 0px;}
+
+#barra .tubo {
+text-align:center;
+background: #B19AC9;
+border-bottom: 0px;
+border-top: 0px;
+border-bottom: 0px;
+width: 100%;
+height:40px;
+align: right;
+margin-top:0px;
+padding-top: 5px;}
+
+#barra .fvbarraf {
+width: 100px;
+height: 12px;
+background: #B19AC9;
+font: 11px tahoma; color:#ffffff; 
+border: 1px solid #b0adbc;
+-moz-border-radius: 0px;
+text-shadow: 1px 1px #9b95ae;}
+
+#barra .fvbarra {
+font: 11px tahoma;
+color:#f2c3cc;
+text-shadow: 1px 1px #9b95ae;}
+
+#barra .fvbarra a:link, #barra .fvbarra a:visited , #barra .fvbarra a:active  {
+color: #c6c6ca;
+font-family: tahoma;
+font-size: 11px;
+line-height: 11px;
+text-align:center;
+text-decoration: none;
+background-color:none;
+letter-spacing: 1px;}
+
+#barra .fvbarra a:hover {
+color: #f2c3cc;
+cursor: ne-resize ;
+background-color: none;
+font-family: tahoma;
+font-size: 11px;
+line-height: 11px;
+text-align:left;
+text-decoration: none;}
+
+
+#barra .barraimg {
+opacity:.0;
+}
