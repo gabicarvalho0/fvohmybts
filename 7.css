@@ -1,0 +1,187 @@
+<style>.cmtfoto img {
+    border-radius: 5px;
+}
+
+.comentarios hr {
+    display: none;
+}
+
+.comentarios {
+    max-width: 500px;
+    margin: 0 auto;
+    background: #efe2f5;
+    padding: 20px;
+    border-radius: 40px 40px 40px 40px;
+}
+
+.cmttext {
+    background: #efe2f5;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-bottom: 1rem;
+}
+
+.cmttext strong {
+    color: #8c7ab5;
+}
+
+.cmtfoto {
+    margin-bottom: -18px;
+    margin-left: 20px;
+}
+
+a img[src="https://flog.vip/img/menu/logout.png"], a img[src="https://flog.vip/img/pres_vip.gif"], a img[src="https://flog.vip/img/setared.gif"], img[src="https://flog.vip/img/menu/favorite.png"], a[href="feed/"] {
+    display: none
+}
+
+#cmtbutao {
+    background: #8272ad;
+    padding: 20px 30px;
+    border: 0;
+    color: #efe2f5;
+    font-family: georgia;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 15px;
+    box-shadow: 7px 7px 0 #7869a0;
+    cursor: pointer;
+}
+
+body,html {
+    margin-top: 0;
+    cursor: url(http://static.tumblr.com/vmteopo/yYInjhg6e/small_black_cursor.png), auto;
+    color: #8c7ab5;
+}
+
+#comentarbox textarea {
+    background: #e8d9ee !important;
+    border: none;
+}
+
+textarea#texto {
+    background: #e8d9ee;
+    border: 0;
+    border-radius: 5px;
+    padding: 15px 20px;
+    margin-top: 10px;
+    color: #8e7cb8;
+}
+
+div#footer {
+    background: #48384c;
+    padding: 20px 0;
+    font-size: 13px;
+    font-family: georgia;
+    font-style: italic;
+    color: #efe2f5;
+}
+
+.col-favorites .pic, .col-about .pic {
+    min-width: auto;
+    filter: grayscale(1);
+    border: 0px solid #f3e7f8;
+    transition: all .45s;
+    box-shadow: 0 0 11px 4px #c8b7ca
+}
+
+.col-about .pic:hover, .col-favorites .pic:hover {
+    filter: grayscale(0.5);
+    transition: all .35s;
+    box-shadow: 0 0 11px 4px #b58dc7
+}
+
+.subtitulo {
+    font-family: georgia;
+    font-size: 16px;
+    text-transform: lowercase;
+    background: #f6eafb;
+    color: #8373ae;
+    box-shadow: 0 0 11px 4px #eadcf0;
+    border-radius: 0px 0px 0px 0px;
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+strong {
+    color: #7a64b3;
+}
+
+.container {
+    max-width: 1000px;
+}
+
+a:link, a:visited, a:active {
+    font-family: georgia;
+    font-style: italic;
+    transition: all .35s;
+}
+
+a:hover {
+    text-decoration: none;
+    transition: all .35s;
+    background: #f1e6f7;
+    color: #655469;
+}
+
+.fixed-top {
+    position: sticky;
+    top: 0;
+}
+
+.bg-dark {
+    background: #48384c;
+}
+
+.navbar {
+    max-width: 3000px;
+    position: sticky;
+    margin: 0 auto;
+    top: 0px;
+    background-color: #48384c!important;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    padding: 10px ;
+    border-radius: 0px 0px 0px 0px;
+    border: 0px solid #48384c;
+    box-shadow: 0 0 11px 4px #c8b7ca
+}
+
+.titulo {
+    display: none
+}
+
+.navbar-in .nav-item {
+    background: #48384c;
+    margin-left: 5px;
+    border-radius: 3px 3px 3px 15px;
+    font-size: 9px
+}
+
+.navbar-in .nav-item:first-child {
+    background: #4e3d52
+}
+
+.navbar-in .nav-item:first-child a {
+    color: #fff;
+    font-weight: 500
+}
+
+.navbar-in .nav-item a {
+    color: #48384c;
+    font-weight: 500
+}
+
+a.navbar-brand img {
+    opacity: 0
+}
+
+a.navbar-brand img:hover {
+    opacity: 0
+}
+
+.col-photo .pic {
+    border: 40px solid #f6eafb;
+    box-shadow: 0 0 11px 4px #eadcf0;
+}
+
+</style>
