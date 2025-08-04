@@ -1,0 +1,180 @@
+/* ------------ Fonte -------------- */
+p, a, body, td, tr, div {
+font-style: tahoma;
+font-weight: tahoma;
+font-size: 12px;
+color: #808080;
+font-family: tahoma;
+line-height: 12px;
+}	
+
+/* ------------ Links ------------------ */
+a, a:link{
+color: #AAFF00;
+cursor: crosshair;
+background-color: #141414;
+border-bottom: 0px solid #none;
+TEXT-DECORATION: none; 
+}
+a:hover {
+color: #AAFF00;
+cursor: crosshair;
+background-color: #141414;
+border-bottom: 0px solid #none;
+TEXT-DECORATION: none;
+}
+
+/* ----------------- Opacidade ----------------- */
+
+a img {
+filter: alpha(opacity=80);
+-moz-opacity: 0.8;}
+
+a:hover img {
+filter: alpha(opacity=10);
+-moz-opacity: 1.0;}
+
+
+/* ----------------- Estilos ---------------- */
+b {	cursor: crosshair;  color: #595959; TEXT-DECORATION: none; border-bottom: 1px solid none; 
+
+cursor: crosshair;
+}
+e {	cursor: crosshair;  color: #595959; TEXT-DECORATION: none; border-bottom: 1px solid none; background-color: #f2f2f2; 
+
+cursor: crosshair;
+}
+u {	cursor: crosshair;  color: #595959; TEXT-DECORATION: none;
+
+cursor: crosshair;
+}
+r {	cursor: crosshair;  color: #AAFF00; TEXT-DECORATION: none;
+
+cursor: crosshair;
+}
+i {	cursor: crosshair;  color: #AAFF00; TEXT-DECORATION: none; border-bottom: none
+
+cursor: crosshair;
+}
+s {	cursor: crosshair;  color: #AAFF00; TEXT-DECORATION: none; border-bottom: none
+}
+
+ul {line-height: 70%; color: #AAFF00;  margin: 0 18; 
+}
+
+c {	cursor: crosshair;  color: #AAFF00; TEXT-DECORATION: none; border-bottom: 1px solid none; background-color: none; 
+
+cursor: crosshair;
+}
+
+.titulo {
+font-family: Tahoma;
+font-color: #535353;
+background-color: #151515;
+margin-left: 45px;
+border-top: 1px solid #333333;
+border-left: 1px solid #333333;
+border-right: 1px solid #333333;
+border-bottom: 1px solid #333333;
+padding: 2px 2px 2px 2px;
+-moz-border-radius: 5px 5px 5px 5px;
+font-size: 12px;
+margin-left: 70px;
+width: 350px;
+font-weight: normal;
+font-style: normal;
+}
+
+
+
+.subtitulo {
+	background-color: #;
+        color: #AAFF00;
+	padding: 1px 1px 1px 1px;
+	width: 120px;
+	-moz-border-radius: 3px 3px 3px 3px;
+}
+
+.titulo_post {
+color: #6B9F00;font-family: tahoma;font-style: normal;cursor: crosshair;}
+
+/* ------------------------------- Caixas ---------------------------------- */
+input, textarea, select 
+	{font-family: tahoma; 
+	font-size: 11px;
+	color: #AAFF00;
+	background-color : #111111;
+         border-left: 1px solid #000000;
+        border-top: 1px solid #000000;
+        border-right: 1px solid #000000;
+        border-bottom: 1px solid #000000;
+	-moz-border-radius: 5px 5px 5px 5px;
+}
+
+.comentarios {
+	font-family: tahoma; 
+	font-size: 11px; 
+        padding: 5px;
+        color: ;
+        text-align: center;
+	-moz-border-radius: 10px 10px 10px 10px;
+        background-color: ;
+        width: 380px;
+        }
+
+/* ------------------------------- Tabelas ---------------------------------- */
+
+.background {
+	font: 12px tahoma;
+	text-align: right;
+	color: #616161;
+	background-color : #000000;
+        border-top: 1px dashed #000000;
+	border-left: 0px solid #000000;
+	border-right: 0px solid #000000;
+        border-bottom: 1px dashed #000000;
+	text-align: justify;
+        width: 290px;
+
+
+
+}
+
+.table {
+	font: 12px tahoma;
+	color: #616161;
+	background-color : #000000;
+        border-top: 1px dashed #000000;
+	border-left: 1px solid #000000;
+	border-right: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	text-align: justify;
+	text-align: center;
+        width: 280px;
+
+}
+
+
+</body>
+</html>
+
+
+
+/* ----------------- Sele&#65533;&#65533;o ------------------- */
+
+::-moz-selection {
+color: #AAFF00;
+background: #f2f2f2;
+}
+
+::selection {
+color: #FFFFFF;
+background: #FFFFFF;
+}
+
+--------------------------------------------------------------------------------------------
+
+
+
+</body>
+</html>

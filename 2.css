@@ -1,0 +1,186 @@
+/* --------- Fonte ------------ */
+body {
+	font: 10px AvantGarde Bk BT;
+	font-weight: bold;
+	text-align: center
+	color: #83b1c4;
+	font-family: AvantGarde Bk BT;
+	line-height: 13px;
+}
+	
+<body style="background-color: "transparent"> <style>{  }
+BODY{
+cursor:none;}
+--></style>	
+}	
+
+/* -------- Barra de Rolagem -------- */	
+body {scrollbar-face-color: #a0977c;
+scrollbar-highlight-color: #ffffff;
+scrollbar-3dlight-color: #a0977c;
+scrollbar-darkshadow-color: #ffffff;
+scrollbar-shadow-color: #a0977c;
+scrollbar-arrow-color: #ffffff;
+scrollbar-track-color: #a0977c; }
+
+
+html {scrollbar-face-color: #a0977c;
+scrollbar-highlight-color: #ffffff;
+scrollbar-3dlight-color: #a0977c;
+scrollbar-darkshadow-color: #ffffff;
+scrollbar-shadow-color: #a0977c;
+scrollbar-arrow-color: #ffffff;
+scrollbar-track-color: #a0977c; }
+
+/* ---------- Link ----------- */
+a, a:link{
+color: #afb44d;
+height:0px; 
+cursor: sw-resize;
+TEXT-DECORATION:#afb44d;
+}
+a:hover {
+color: #dc837f;
+cursor: sw-resize;
+TEXT-DECORATION:#dc837f;
+}
+
+/* ------------ Estilos ------------ */
+
+b {	cursor: sw-resize; color: #dc837f; TEXT-DECORATION: none;
+}
+u {	cursor: sw-resize; color: #ffffff; TEXT-DECORATION: none;
+}
+i {	cursor: sw-resize; color: #83b1c4; TEXT-DECORATION: none;
+}
+
+/* ---------- Caixas ---------- */
+input, textarea, select 
+	{font-family: AvantGarde Bk BT; 
+	font-size: 10px;
+        font-weight: bold;
+	color: #dc837f;
+	border-top: 1px solid #afb44d;
+	border-left: 1px solid #afb44d;
+	border-right: 1px solid #afb44d;
+	border-bottom: 1px solid #afb44d;
+	background-color: #a0977c;
+        -moz-border-radius: 8px 8px 8px 8px;
+} 
+}
+/* --------------- Tabelas ----------------- */
+
+.table2 {
+        font: 10px AvantGarde Bk BT;
+	font-weight: bold;
+	text-align: right;
+	color:  #ffffff;
+        background-color: transparent ;        
+        border-bottom: 1px dashed #afb44d;
+        -moz-border-radius: 8px 8px 8px 8px
+}
+.table6 {background: #f58fb6 url('http://i729.photobucket.com/albums/ww298/fotos_vips/postigualtds-2.png') bottom;
+	font: 11px AvantGarde Bk BT;
+	font-weight: bold;
+	text-align: center;
+        letter-spacing: 2px;
+	padding : 4px;
+	color:  #ffffff;
+	background-color: transparent;
+        border-bottom: 3px solid none:
+        -moz-border-radius: 8px 8px 8px 8px;
+}
+
+.fundo{
+      background-color: #a0977c; 
+      border: 3px solid #ffffff;
+      -moz-border-radius: 8px 8px 8px 8px;
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+/* --------- Fonte ------------ */
+body {
+	font: 10px AvantGarde Bk BT;
+	font-weight: bold;
+	text-align: center
+	color: #a190d5;
+	font-family: AvantGarde Bk BT;
+	line-height: 13px;
+}
+	
+<body style="background-color: "transparent"> <style>{  }
+BODY{
+cursor:crosshair;}
+--></style>	
+}	
+
+
+/* ---------- Link ----------- */
+a, a:link{
+color: #CBE86B;
+height:0px; 
+cursor: sw-resize;
+TEXT-DECORATION:#CBE86B;
+}
+a:hover {
+color: #cbcbcb;
+cursor: sw-resize;
+TEXT-DECORATION:#cbcbcb;
+}
+
+/* ------------ Estilos ------------ */
+
+b {	cursor: sw-resize; color: #CBE86B; TEXT-DECORATION: none;
+}
+u {	cursor: sw-resize; color: #a190d5; TEXT-DECORATION: none;
+}
+i {	cursor: sw-resize; color: #ffffff; TEXT-DECORATION: none;
+}
+d {	cursor: sw-resize; color: #ff0000; TEXT-DECORATION: none;
+}
+
+/* ---------- Caixas ---------- */
+input, textarea, select 
+	{font-family: AvantGarde Bk BT; 
+	font-size: 10px;
+        font-weight: bold;
+	color: #CBE86B;
+	border-top: 1px solid #F2E9E1;
+	border-left: 1px solid #F2E9E1;
+	border-right: 1px solid #F2E9E1;
+	border-bottom: 1px solid #F2E9E1;
+	background-color: #000000;
+        -moz-border-radius: 8px 8px 8px 8px;
+} 
+
+/* --------------- Tabelas ----------------- */
+
+.table2 {
+        font: 10px AvantGarde Bk BT;
+	font-weight: bold;
+	text-align: right;
+	color:  #CBE86B;
+        background-color: transparent ;        
+        border-bottom: 1px dashed #F2E9E1;
+        -moz-border-radius: 8px 8px 8px 8px
+}
+
+.table6{
+	font: 10px AvantGarde Bk BT;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	padding : 4px;
+	color: #CBE86B;
+	background-color: #555555;
+        border-bottom: 1px solid none;
+        -moz-border-radius: 8px 8px 8px 8px;
+ }
+
+
+.fundo{
+      background-color: #222222; 
+      border: 3px solid #CBE86B;
+      -moz-border-radius: 8px 8px 8px 8px;

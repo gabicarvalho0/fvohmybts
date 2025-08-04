@@ -1,0 +1,271 @@
+p, a, body, td, tr, div {
+	font-weight: normal;
+	font-style: normal;
+	font-size: 12px;
+	color: #969696;
+	cursor: crosshair;
+	font-family: Tahoma;
+	line-height: 11px;
+}
+a, a:link{
+color: #EC5881;
+TEXT-DECORATION: none; 
+}
+a:hover {
+color: #969696;
+padding: 0px 1px 0px 0px;
+TEXT-DECORATION: none; 
+}
+
+<body style="background-color:"transparent"> <style>{ }
+BODY{cursor:col-resize;}
+--></style> 
+}
+
+blockquote {
+color: #EC5881;
+border-top: 1px solid #BEBADA;
+border-left: 1px solid #BEBADA;
+border-right: 1px solid #BEBADA;
+border-bottom: 1px solid #BEBADA;
+background-color: #EFF2F5;
+padding: 3px 3px 3px 3px;
+width: 400px;
+text-align: center;
+-moz-border-radius: 5px 5px 5px 5px;
+line-height: 12px;
+font-family: Verdana;
+} 
+
+b {	cursor: none; color: #EC5881; TEXT-DECORATION: none;
+}
+i {	cursor: none; color: #EC5881; TEXT-DECORATION: none;
+}
+u {	 cursor: none; color: #EC5881; TEXT-DECORATION: none;
+}
+a {	 cursor: none; color: #EC5881; TEXT-DECORATION: none;
+}
+
+::-moz-selection
+{color:   #EC5881;
+background: #EFF2F5;}
+
+::selection
+{color: #FF6600;
+background: #EFF2F5;} 
+
+.subtitulo {
+	background-color: #EFF2F5;
+	border-top: 0px solid #DADADA;
+	border-left: 0px solid #DADADA;
+	border-right: 0px solid #DADADA;
+	border-bottom: 0px solid #DADADA;
+	padding: 1px 2px 2px 1px;
+	width: 100px;
+	-moz-border-radius: 3px 3px 3px 3px;
+}
+
+.titulo {
+font-family: Tahoma;
+font-color: #A5A5A5;
+background-color: #EFF2F5;
+margin-left: 45px;
+border-top: 1px solid #FBFBFB;
+border-left: 1px solid #FBFBFB;
+border-right: 1px solid #FBFBFB;
+border-bottom: 1px solid #FBFBFB;
+padding: 2px 2px 2px 2px;
+-moz-border-radius: 5px 5px 5px 5px;
+font-size: 12px;
+margin-left: 210px;
+width: 350px;
+font-weight: normal;
+font-style: normal;
+}
+
+ input, textarea, select 
+	{font-family: tahoma; 
+	font-size: 12px;
+	color: #A5A5A5;
+	border-top: 0px solid #e0dfdf;  
+	border-left: 0px solid #e0dfdf; 
+	border-right: 0px solid #e0dfdf; 
+	border-bottom: 0px solid #e0dfdf; 
+	background-color: #EFF2F5; 
+
+}
+
+.cmttext {
+	align: justify;
+	color: #969696;
+	border-left: 0px solid #DCE3ED;
+	border-right: 0px solid #DCE3ED;
+	border-top: 0px solid #DCE3ED;
+	border-bottom: 0px solid #DCE3ED;
+	background: #EFF2F5;
+	padding: 5px;
+}
+
+.comentarios {
+	font-family: tahoma; 
+	font-size: 12px; 
+        padding: 5px;
+        color: #969696;
+	border: 1px solid #e0dfdf;
+	-moz-border-radius: 5px 5px 5px 5px;
+        background-color: #EFF2F5;
+        width: 310px;
+        }
+}
+
+
+a img
+        {filter: alpha(opacity=70);
+        -moz-opacity: 10.0;
+        opacity:0.90; }
+
+a:hover img
+
+        {filter: alpha(opacity=10);
+        -moz-opacity: 1.0;
+        opacity:1.0;
+}
+
+
+.tab1 {
+        color: #EC5881;
+       background-color: #EFF2F5;
+       border-top: 1px solid #e0dfdf;
+       border-left: 1px solid #e0dfdf;
+       border-right: 1px solid #e0dfdf;
+       border-bottom: 1px solid #e0dfdf;
+        padding: 2px 2px 2px 2px;
+        width: 342px;
+        -moz-border-radius: 5px 5px 5px 5px;
+        line-height: 12px;
+        font-family: Tahoma;
+        }
+
+.tab2 {
+        font: 12px Tahoma;
+        color: #EC5881;
+        border-bottom: 0px solid #BEBADA;
+        background-color: #EFF2F5;
+	text-align: center;
+        padding: 2px 2px 2px 2px;
+        -moz-border-radius: 7px 7px 7px 7px;
+	width: 395px;
+	line-height: 12px;
+}
+.tab3 {
+        font: 12px Tahoma;
+        color: #EC5881;
+        border-top: 1px solid #e0dfdf;
+        border-left: 1px solid #e0dfdf;
+        border-right: 1px solid #e0dfdf;
+        border-bottom: 0px solid #d3d6dc;
+        background-color: #EFF2F5;
+	text-align: center;
+        padding: 1px 1px 1px 1px;
+	-moz-border-radius: 8px 8px 0px 0px;
+	width: 250px;
+
+.tab4 {
+        color: #aeb0b7;
+        border-top: 0px solid #d3d6dc;
+        border-left: 0px solid #d3d6dc;
+        border-right: 0px solid #d3d6dc;
+        border-bottom: 0px solid #d3d6dc;
+        background-color: #EFF2F5;
+        padding: 3px 2px 2px 3px;
+        width: 238px;
+        -moz-border-radius: 0px 0px 0px 0px;
+        line-height: 12px;
+        font-family: tahoma;
+        }
+
+.tab5 {
+	{font-family: tahoma; 
+	font-size: 11px;
+	color: #aeb0b7;
+	border-top: 1px solid #aeb0b7;
+	border-left: 1px solid #aeb0b7;
+	border-right: 1px solid #aeb0b7;
+	border-bottom: 1px solid #aeb0b7;
+	background-color: #EFF2F5;
+	-moz-border-radius: 8px 20px 8px 20px;
+        width: 238px;
+}
+        
+
+.tab6 {
+	color: #999999;
+        padding-top: 5px;
+        padding-bottom: 3px;
+        background-color: #EFF2F5;
+	border-bottom: 0px solid #76647D;
+	border-right: 4px solid #999999;
+	border-left: 4px solid #999999;
+	border-top: 0px solid #999999;
+	-moz-border-radius: 8px 5px 5px 5px;        
+        font-family: Tahoma;
+        font-size: 13px;
+        font-weight: none;
+        text-align: center;
+        width: 165px;
+}
+    
+.tab7 {
+	color:  #333333;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        background-color: #EFF2F5;        
+        border-bottom: none;
+        font-family: tahoma;
+        font-size: 11px;
+        font-weight: none;
+        text-align: right;
+}
+
+.tab8 {
+	color: #EC5881;
+	background-color : #EFF2F5; 
+        border-top: 1px solid #0f0f0f;
+	border-left: 1px solid #0f0f0f;
+	border-right: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+        font-size: 11px;
+        font-family: tahoma;
+        padding: 0px 0px 0px 0px;
+        margin: 1px 1px 1px 1px;
+        width: 380px;
+        text-align: center; 
+
+.tab9 {
+	color: #EC5881;
+	font-family: tahoma;
+	border-bottom: 1px dotted #F5F5F5;
+	border-right: 0px solid #b98cad;
+	border-left: 0px solid #b98cad;
+	border-top: 0px solid #b98cad;
+	padding: 2px 2px 2px 2px;
+	width: 350px;
+	background-color: #EFF2F5;
+	text-align: right;
+	-moz-border-radius: 0px 0px 4px 4px;
+}
+
+
+.fundo {
+color: #EC5881;
+border-top: 1px solid #EC5881;
+border-left: 1px solid #EC5881;
+border-right: 1px solid #EC5881;
+border-bottom: 1px solid #EC5881;
+background-color: #EFF2F5;
+padding: 3px 3px 3px 3px;
+width: 400px;
+text-align: center;
+-moz-border-radius: 5px 5px 5px 5px;
+line-height: 12px;
+font-family: tahoma;
